@@ -1,0 +1,15 @@
+{
+  "name": "OW_NODE_EXPRESS",
+  "packageManager": "yarn@3.6.1",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
